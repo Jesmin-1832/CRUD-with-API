@@ -1,0 +1,88 @@
+{
+  "user": [
+    {
+      "id": "df1f",
+      "username": "ram",
+      "email": "ram@gmail.com",
+      "phone": "8569325410",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOaa1_lZZ_uv40HwicB1gdJk83EBNZFKvlSA&usqp=CAU"
+    },
+    {
+      "id": "a002",
+      "username": "jesmin",
+      "email": "jesmin@gmail.com",
+      "phone": "8780670716",
+      "image": "https://media.licdn.com/dms/image/D4E03AQGHmS1YTBeCgw/profile-displayphoto-shrink_800_800/0/1679063753181?e=2147483647&v=beta&t=EgKugtwbN-6C8w7nEWOseHXe62lDXqAvRol5DcvcZjw"
+    },
+    {
+      "id": "7eca",
+      "username": "Arpit",
+      "email": "Arpit@gmail.com",
+      "phone": "8976285958",
+      "image": "https://eclatsuperior.com/wp-content/uploads/2021/04/man3.jpg"
+    },
+    {
+      "id": "2448",
+      "username": "keval",
+      "email": "k@gmail.com",
+      "phone": "9762816723",
+      "image": "https://cdn4.sharechat.com/img_494563_955bd5_1679611490179_sc.jpg?tenant=sc&referrer=pwa-sharechat-service&f=179_sc.jpg"
+    },
+    {
+      "id": "f1c1",
+      "username": "keval",
+      "email": "keval@gmail.com",
+      "phone": "9865322154",
+      "image": "https://designimages.appypie.com/displaypicture/displaypicture-24-face-person.jpg"
+    },
+    {
+      "id": "25a0",
+      "username": "manish patel",
+      "email": "manish@gmail.com",
+      "phone": "9865325421",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP4fNghY7Kx6eP79gmdp6YhesUm6GZGL53Rw&usqp=CAU"
+    },
+    {
+      "id": "3789",
+      "username": "mohit",
+      "email": "m@gmail.com",
+      "phone": "9762843510",
+      "image": "https://cdn.pixabay.com/photo/2023/04/28/23/32/ai-generated-7957457_640.png"
+    },
+    {
+      "id": "de67",
+      "username": "mahesh",
+      "email": "mahesh@gmail.com",
+      "phone": "7698541325",
+      "image": "https://designimages.appypie.com/displaypicture/displaypicture-17-face-person.jpg"
+    },
+    {
+      "id": "f20c",
+      "username": "yagnik patel",
+      "email": "y@gmail.com",
+      "phone": "8761893492",
+      "image": "https://i0.wp.com/sguru.org/wp-content/uploads/2017/06/cIVejjbUP7.png?resize=397%2C397&ssl=1"
+    },
+    {
+      "id": "b496",
+      "username": "sahil",
+      "email": "sahil@gmail.com",
+      "phone": "8946892005",
+      "image": "https://w0.peakpx.com/wallpaper/107/46/HD-wallpaper-best-pose-for-profile-for-men-profile-pose-men-best-glasses.jpg"
+    },
+    {
+      "id": "f612",
+      "username": "umang",
+      "email": "u@gmail.com",
+      "phone": "9574319850",
+      "image": "https://images.ctfassets.net/h6goo9gw1hh6/2sNZtFAWOdP1lmQ33VwRN3/24e953b920a9cd0ff2e1d587742a2472/1-intro-photo-final.jpg?w=1200&h=992&fl=progressive&q=70&fm=jpg"
+    },
+    {
+      "id": "6e6f",
+      "username": "Yash",
+      "email": "yash@gmail.com",
+      "phone": "9574201500",
+      "image": "https://media.istockphoto.com/id/1338134336/photo/headshot-portrait-african-30s-man-smile-look-at-camera.jpg?b=1&s=612x612&w=0&k=20&c=k9t5OIfN4Vqb2NcYfoHYT2-Bn_pNnEdq9c_2pvxDTm8="
+    }
+  ]
+}
